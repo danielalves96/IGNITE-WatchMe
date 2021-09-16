@@ -5,7 +5,7 @@ import { api } from "./services/api";
 import "./styles/content.scss";
 import "./styles/global.scss";
 import "./styles/sidebar.scss";
-import { GenreResponseProps, MovieProps } from './utils/types';
+import { GenreResponseProps, MovieProps } from "./utils/types";
 
 export function App() {
   const [selectedGenreId, setSelectedGenreId] = useState(1);
@@ -35,7 +35,6 @@ export function App() {
       });
   }, [selectedGenreId]);
 
-
   return (
     <div style={{ display: "flex", flexDirection: "row" }}>
       <Sidebar
@@ -44,10 +43,7 @@ export function App() {
         setSelectedGenreId={setSelectedGenreId}
       />
 
-      <Content
-        selectedGenre={selectedGenre}
-        movies={movies}
-      />
+      <Content selectedGenre={selectedGenre} movies={movies} />
     </div>
   );
 }
