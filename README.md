@@ -5,8 +5,8 @@ WatchMe - Challenge 02: Componentizing the application
 </h3>
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/leonne-sousa-brito/">
-      <img alt="LeonneBrito" src="https://img.shields.io/badge/-Daniel Alves-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/daniel-luiz-alves-791a7911a/">
+      <img alt="DanielAlves96" src="https://img.shields.io/badge/-Daniel Alves-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <a href="mailto:daniel.madeireira@gmail.com">
    <img alt="Email" src="https://img.shields.io/badge/-daniel.madeireira%40gmail.com-%23525DCB" />
